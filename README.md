@@ -6,10 +6,10 @@ For the complete dataset, [click here](https://www.kaggle.com/datasets/adityades
 
 Members:
 
-- Laban Mahihu -> 23068822
 - Isaac Ngulat -> 23026708
-- Emmanuel Chinedu -> 23080370
+- Laban Mahihu -> 23068822
 - Martin Thuranira -> 23099101
+- Emmanuel Chinedu -> 23080370
 - Onatemowo Oluwadamilare Temidayo -> 23004860
 
 ## Research Question
